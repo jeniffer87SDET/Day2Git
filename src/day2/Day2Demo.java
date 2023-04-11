@@ -13,4 +13,6 @@ public class Day2Demo {
 	
 	
 	String name = "Jen";
+	
+	String BestTeam = "10X";
 }
