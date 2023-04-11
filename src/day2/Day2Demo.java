@@ -15,4 +15,8 @@ public class Day2Demo {
 	String name = "Jen";
 	
 	String BestTeam = "10X";
+	
+	String country = "USA";
+	
+	int age = 36;
 }
